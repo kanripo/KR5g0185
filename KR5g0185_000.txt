@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:59:41.456238
+# -*- mode: mandoku-view -*-
 #+TITLE: 上清太上帝君九真中經
-#+PROPERTY: DZID  DZ1376
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—33 二卷 正一部
+#+DATE: 2015-08-29 02:59:42
+#+PROPERTY:  LASTPB <PB KR5g0185_SJB_002-340038a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶
+
